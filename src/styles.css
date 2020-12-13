@@ -1,0 +1,14 @@
+.App {
+  font-family: "Work Sans", sans-serif;
+  text-align: center;
+}
+
+input {
+  padding: 5px;
+  background: transparent;
+  border: 1px solid black;
+}
+
+body {
+  background-color: pink;
+}
